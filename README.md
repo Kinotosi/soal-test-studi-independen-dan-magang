@@ -1,5 +1,5 @@
 # Soal Test Studi Independen dan Magang
-Jawaban dari soal test studi independen dan magang dari PT Gits Indonesia
+Jawaban dari soal test studi independen dan magang dari PT Gits Indonesia \n
 Nama : Arga Dwi Ardinata
 Kampus : Universitas Muhammadiyah Surakarta
 NIM : L200180114
